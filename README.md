@@ -7,9 +7,9 @@
 
 ## Introduction
 
-Welcome to Toolbox, a comprehensive open-source repository dedicated to storing shell script installation files for a wide range of tools. This repository was born out of the need to simplify the process of installing and setting up various tools, especially in diverse environments.
+<b><i> Welcome to Toolbox, a comprehensive open-source repository dedicated to storing shell script installation files for a wide range of tools. This repository was born out of the need to simplify the process of installing and setting up various tools, especially in diverse environments.
 
-In the world of software development, setting up tools can sometimes be a daunting task, especially for beginners. Each tool comes with its own set of installation instructions, and navigating through these can be confusing and time-consuming. That's where <b>Toolbox<b> comes in.
+In the world of software development, setting up tools can sometimes be a daunting task, especially for beginners. Each tool comes with its own set of installation instructions, and navigating through these can be confusing and time-consuming. That's where Toolbox comes in.
 
 ## What We Do
 
