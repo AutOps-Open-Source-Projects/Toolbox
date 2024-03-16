@@ -54,8 +54,10 @@ If you have any questions, suggestions, or feedback, feel free to open an issue.
 ## 🥳 Contributors
 - This project thanking all the contributors for having your valuable contribution to our project
 - Make sure you show some love by giving ⭐ to our repository.
+  
 <br>
+
 <a href="https://github.com/AutOps-Open-Source-Projects/Toolbox/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=AutOps-Open-Source-Projects/Toolbox" />
+  <img src="https://contrib.rocks/image?repo=AutOps-Open-Source-Projects/Toolbox" />
 </a>
 
