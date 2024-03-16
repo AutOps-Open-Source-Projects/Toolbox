@@ -1,0 +1,6 @@
+$url = "https://github.com/argoproj/argo-cd/releases/download/" + 2.8.11 + "/argocd-windows-amd64.exe"
+$output = "argocd.exe"
+
+Invoke-WebRequest -Uri $url -OutFile $output
+
+#for WSL follow instructions in "Dabian-based/ArgoCD/argocli.sh"

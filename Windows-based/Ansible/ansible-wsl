@@ -1,0 +1,13 @@
+sudo apt-get update
+sudo apt-get install python3-pip git libffi-dev libssl-dev -y
+pip install --user ansible pywinrm
+
+
+# To run Ansible from source instead of a release on the WSL, simply uninstall the pip installed version and then clone the git repo.
+
+# pip uninstall ansible -y
+# git clone https://github.com/ansible/ansible.git
+# source ansible/hacking/env-setup
+
+# # To enable Ansible on login, run the following
+# echo ". ~/ansible/hacking/env-setup -q' >> ~/.bashrc
