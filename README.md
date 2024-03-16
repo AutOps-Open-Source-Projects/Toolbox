@@ -10,7 +10,7 @@
 [![mozilla-observatory](https://img.shields.io/mozilla-observatory/grade/gitdeveloper.yetiforce.com?publish)](https://observatory.mozilla.org/analyze/gitdeveloper.yetiforce.com)
 [![Dependency Vulnerabilities](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi-hooks.soos.io%2Fapi%2Fshieldsio-badges%3FbadgeType%3DDependencyVulnerabilities%26pid%3D3fd2seq3i)](https://app.soos.io)
 ![](https://img.shields.io/badge/version-v0.0.1-blue)
-[![License: MIT](https://img.shields.io/badge/License-PML-green.svg)](https://opensource.org/licenses/PML)
+[![License: MPL](https://img.shields.io/badge/License-MPL-green.svg)](https://opensource.org/licenses/PML)
 ![Static Badge](https://img.shields.io/badge/last_commit-2024-blue)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 ![GitHub issues](https://img.shields.io/github/issues/AutOps-Open-Source-Projects/Toolbox)
