@@ -1,8 +1,11 @@
-# Code of Conduct
+<div align="center">
+<h1><b> Code Of Conduct </b></h1>
+<br>
+</div>
 
 ## 1. Purpose
 
-A primary goal of `Toolbox 🛠️` is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of `🛠️ Toolbox` is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -10,8 +13,8 @@ This code of conduct outlines our expectations for all those who participate in 
 
 A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in socil
-fff
+Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power.
+
 ## 3. Expected Behavior
 
 The following behaviors are expected and requested of all community members:
@@ -43,7 +46,7 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 ## 7. Addressing Grievances
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact us at a  `aut0ps.github.io/ with your appeal and the team leader will review the decision.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact us at a  `autops8600@gmail.com` with your appeal and the team leader will review the decision.
 
 ## 8. Scope
 
